@@ -405,8 +405,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Support & Feedback
 
 ### Questions or Issues?
-- Open an [Issue](https://github.com/yourusername/power-bi-fraud-detection-system/issues)
-- Check the [Discussions](https://github.com/yourusername/power-bi-fraud-detection-system/discussions) tab
+- Open an [Issue](https://github.com/ShanikwaH/power-bi-fraud-detection-system/issues)
+- Check the [Discussions](https://github.com/ShanikwaH/power-bi-fraud-detection-system/discussions) tab
 - Review the comprehensive documentation in `/documentation`
 
 ### Found This Helpful?
@@ -419,11 +419,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📊 Project Stats
 
-![GitHub stars](https://img.shields.io/github/stars/yourusername/power-bi-fraud-detection-system?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/power-bi-fraud-detection-system?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/yourusername/power-bi-fraud-detection-system?style=social)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/power-bi-fraud-detection-system)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/yourusername/power-bi-fraud-detection-system)
+![GitHub stars](https://img.shields.io/github/stars/ShanikwaH/power-bi-fraud-detection-system?style=social)
+![GitHub forks](https://img.shields.io/github/forks/ShanikwaH/power-bi-fraud-detection-system?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/ShanikwaH/power-bi-fraud-detection-system?style=social)
+![GitHub issues](https://img.shields.io/github/issues/ShanikwaH/power-bi-fraud-detection-system)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/ShanikwaH/power-bi-fraud-detection-system)
 
 ---
 
