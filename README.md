@@ -67,6 +67,7 @@ Power Query ETL process handling:
 ---
 
 ## 📁 Repository Structure
+```
 power-bi-fraud-detection-system/
 │
 ├── data/
@@ -95,8 +96,7 @@ power-bi-fraud-detection-system/
 ├── .gitignore
 ├── LICENSE
 └── README.md                                       # This file
-
----
+```
 
 ## 🚀 Quick Start
 
