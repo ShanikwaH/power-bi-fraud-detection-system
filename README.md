@@ -98,6 +98,8 @@ power-bi-fraud-detection-system/
 └── README.md                                       # This file
 ```
 
+---
+
 ## 🚀 Quick Start
 
 ### Prerequisites
