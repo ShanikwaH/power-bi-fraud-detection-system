@@ -5,7 +5,7 @@
 [![Power BI](https://img.shields.io/badge/Power%20BI-Desktop-F2C811?logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
 [![DAX](https://img.shields.io/badge/DAX-Measures-blue)](https://dax.guide/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Status](https://img.shields.io/badge/Status-Production%20Ready-success)](https://github.com/yourusername/power-bi-fraud-detection-system)
+[![Status](https://img.shields.io/badge/Status-Production%20Ready-success)](https://github.com/ShanikwaH/power-bi-fraud-detection-system)
 
 ![Fraud Detection Dashboard Preview](assets/dashboard-preview.png)
 *Executive overview showing real-time fraud monitoring and risk scoring*
