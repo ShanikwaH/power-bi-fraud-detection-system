@@ -386,10 +386,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Portfolio: [yourportfolio.com](https://yourportfolio.com)
-- Email: your.email@example.com
+- GitHub: [@yourusername](https://github.com/ShanikwaH)
+- LinkedIn: [Your LinkedIn](https://linkedin.com/in/shanikwahaynes)
+- Portfolio: [yourportfolio.com](https://analyticsbyshanikwa.com/)
+- Email: nikki.19972010@hotmail.com
 
 ---
 
