@@ -1,0 +1,106 @@
+# Power BI Files
+*.pbix
+*.pbit
+*_backup.pbix
+*.tmp
+
+# Power BI Desktop Temp Files
+*.pbids
+*.pbip
+*.pbiproj
+
+# Power BI Cache
+*.cache
+.pbi/
+
+# Excel Temporary Files
+~$*.xlsx
+~$*.xls
+*.xlk
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# Linux
+*~
+.directory
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# JetBrains IDEs
+.idea/
+*.iml
+
+# Python (if using Python scripts)
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+ENV/
+env/
+
+# R (if using R scripts)
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# Node modules (if using any JS tools)
+node_modules/
+npm-debug.log*
+
+# Logs
+*.log
+logs/
+
+# Sensitive Data
+*.env
+.env.local
+secrets.json
+credentials.json
+
+# Large Data Files (uncomment if you don't want to commit large datasets)
+# *.csv
+# *.parquet
+# *.feather
+
+# Backup Files
+*.bak
+*.backup
+*_old.*
+
+# Compressed Archives
+*.zip
+*.rar
+*.7z
+*.tar.gz
+
+# Documentation Build Files
+_site/
+.jekyll-cache/
+
+# System Files
+*.swp
+*.swo
+*~
+
+# Personal Notes (optional)
+NOTES.md
+TODO.md
+scratch/
