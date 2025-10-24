@@ -191,6 +191,8 @@ power-bi-fraud-detection-system/
 │ - Account_Age  │  │ - MCC_Code       │
 └────────────────┘  └──────────────────┘
 
+---
+
 **Star Schema Design**
 - Optimized for query performance and analytics
 - Supports incremental refresh for scalability
